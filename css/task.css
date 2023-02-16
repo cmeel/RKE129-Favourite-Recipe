@@ -1,0 +1,56 @@
+@import url(https://fonts.google.com/specimen/Amatic+SC?query=amatic);
+
+body {
+    background-color: rgb(221, 211, 196);
+}
+
+.mainheading {
+    text-align: center;
+}
+
+.recipe-heading {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    color: rgb(220, 128, 62);
+}
+
+.img {
+    text-align: center;
+    scale: 1,5;
+}
+
+.heading2{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: rgb(220, 128, 62);
+}
+
+.ingredients{
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.ingredients-table{
+    margin-left: 15rem;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.instructions{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    margin: 0 auto;
+    width: 75%;
+    
+}
+
+.footer {
+    text-align: center;
+}
